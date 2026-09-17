@@ -6,9 +6,9 @@ Proyecto colaborativo para aplicar sintaxis avanzada de Markdown y flujo de trab
 ## Autores y Roles
 | Nombre | Rol |
 |---|---|
-| [Tu Nombre] | Líder & Revisor |
-| [Compañero 2] | Desarrollador Principal |
-| [Compañero 3] | Revisor QA / Soporte |
+| [Carlos Aranda] | Líder & Revisor |
+| [David Valladares] | Desarrollador Principal |
+| [Mathias Viera] | Revisor QA / Soporte |
 
 ## Tecnologías
 - Markdown Avanzado
