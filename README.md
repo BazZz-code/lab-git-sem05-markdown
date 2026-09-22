@@ -14,4 +14,12 @@ Proyecto colaborativo para aplicar sintaxis avanzada de Markdown y flujo de trab
 - Markdown Avanzado
 - Git y GitHub
 
-<!-- Aquí el equipo agregará Requisitos, Instalación, Uso, Tablas y Evidencias -->
+## Requisitos Previos
+- Python 3.8 o superior.
+- Git.
+
+## Instalación
+Ejecuta los siguientes comandos en tu terminal para clonar el proyecto:
+```bash
+git clone [https://github.com/BazZz-code/lab-git-sem05-markdown.git](https://github.com/BazZz-code/lab-git-sem05-markdown.git)
+cd lab-git-sem05-markdown
